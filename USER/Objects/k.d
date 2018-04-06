@@ -1,0 +1,40 @@
+.\objects\k.o: k.c
+.\objects\k.o: k.h
+.\objects\k.o: main.h
+.\objects\k.o: D:\Program Files\keil5\keil5\ARM\ARMCC\bin\..\include\stdio.h
+.\objects\k.o: D:\Program Files\keil5\keil5\ARM\ARMCC\bin\..\include\stdarg.h
+.\objects\k.o: ..\CMSIS\stm32f10x.h
+.\objects\k.o: ..\CMSIS\core_cm3.h
+.\objects\k.o: D:\Program Files\keil5\keil5\ARM\ARMCC\bin\..\include\stdint.h
+.\objects\k.o: ..\CMSIS\system_stm32f10x.h
+.\objects\k.o: ..\USER\stm32f10x_conf.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_adc.h
+.\objects\k.o: ..\CMSIS\stm32f10x.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_bkp.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_can.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_cec.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_crc.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_dac.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_dbgmcu.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_dma.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_exti.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_flash.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_fsmc.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_gpio.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_i2c.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_iwdg.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_pwr.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_rcc.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_rtc.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_sdio.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_spi.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_tim.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_usart.h
+.\objects\k.o: ..\LIB\inc\stm32f10x_wwdg.h
+.\objects\k.o: ..\LIB\inc\misc.h
+.\objects\k.o: control.h
+.\objects\k.o: main.h
+.\objects\k.o: ..\HARDWARE\Drv_SysTick.h
+.\objects\k.o: ..\HARDWARE\Drv_USART1.h
+.\objects\k.o: ..\HARDWARE\Drv_LCD.h
+.\objects\k.o: k.h
